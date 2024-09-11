@@ -1,0 +1,5 @@
+D1,Dr. Sadia,General Doctor
+D2,Dr. Joy,Cardiologist
+D3,Dr. Joti,Dermatologist
+D4,Dr. Yeasir,General Doctor
+D5,Dr. Rawnok,Neurologist
